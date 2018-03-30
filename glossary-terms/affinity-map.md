@@ -7,7 +7,7 @@ Affinity mapping is a process for organizing, displaying, and analyzing large am
 
 Affinity map in progress. 
 
-***
+--
 #### Synonyms
 * Affinty Diagramming
 

@@ -7,7 +7,7 @@ A chatbot is an application that is designed to be used with a chat interface or
 ![A Facebook Messenger Chatbot](https://github.com/voxable-labs/cui-glossary/blob/master/images/chatbot.jpg?raw=true "A Facebook Messenger Chatbot")
 A Facebook Messenger Chatbot
 
-***
+--
 #### Synonyms
 * Bot
 * Messaging Application
