@@ -1,8 +1,11 @@
 # Chatbot
 
 Noun.
-#### What is a chatbot?
-A chatbot is an application that is designed to be used with a chat interface or messaging channel. The main mode of interaction is text messaging which makes chatbots a type of conversaitonal interface. Chatbots can consist of structured messages as well as free-form, natural language conversation.
+
+A web application with which users interact via a messaging channel. A type of conversational interface.
+
+##### More Detail
+Chatbots can consist of structured messages as well as free-form, natural language conversation. Common messaging applications for which chatbots are built are SMS, Facebook Messenger, Slack, Skype, Telegram, Kik, 
 
 ![A Facebook Messenger Chatbot](https://github.com/voxable-labs/cui-glossary/blob/master/images/chatbot.jpg?raw=true "A Facebook Messenger Chatbot")
 A Facebook Messenger Chatbot
@@ -16,3 +19,4 @@ A Facebook Messenger Chatbot
 * Conversational User Interface
 * Chat Affordances
 * Structured Messages
+* Natural Language Understanding
