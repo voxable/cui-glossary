@@ -5,6 +5,8 @@ The Wizard-of-Oz Method is a rapid prototyping technique in which subjects respo
 
 In conversational design, this test happens after the conversation flows have been developed.   
 
+http://www.usabilitybok.org/wizard-of-oz
+
 --
 #### Related Terms
 * RITE Method

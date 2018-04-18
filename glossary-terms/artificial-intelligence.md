@@ -13,3 +13,4 @@ http://people.cs.ubc.ca/~poole/ci/ch1.pdf
 #### Related Terms
 * Machine Learning
 
+http://people.cs.ubc.ca/~poole/ci/ch1.pdf
