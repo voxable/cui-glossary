@@ -5,7 +5,7 @@ A character profile is a set of information that define a brand character. These
 
 ![Character profile](https://github.com/voxable-labs/cui-glossary/blob/master/images/character-profile.jpg?raw=true "Character profile")
 
-An example character profile. 
+An example character profile. lkajdfldskjf
 
 --
 
