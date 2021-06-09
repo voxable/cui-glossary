@@ -1,0 +1,115 @@
+{
+  "main": {
+    "id": "826fba71fe224942",
+    "type": "split",
+    "children": [
+      {
+        "id": "320f59f269037d31",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "voice.md",
+            "mode": "source"
+          }
+        },
+        "group": "8a80f537accec904"
+      },
+      {
+        "id": "376bef8a800056f5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "voice.md",
+            "mode": "preview"
+          }
+        },
+        "group": "8a80f537accec904"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "947b1ae775cba97e",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1f5c0485436fded",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e2de66921767a21",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5188e262ec89322d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d87085ae66a98378",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa9ff96cc1df8dd2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e82ae393fac5b71f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "voice.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "320f59f269037d31",
+  "lastOpenFiles": [
+    "voice.md",
+    "user-interviews.md",
+    "turn.md",
+    "affinity-digram.md",
+    "sample-dialogue.md",
+    "universal-commands.md",
+    "sample-dialog.md",
+    "training.md",
+    "Untitled.md",
+    "tone.md"
+  ]
+}
