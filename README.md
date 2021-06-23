@@ -14,11 +14,15 @@ The terms were developed according to the International Organization for Standar
 	
 http://standards.iso.org/ittf/PubliclyAvailableStandards/c035346_ISO_IEC_11179-4_2004(E).zip
 	
-A data definition shall:a) be stated in the singular 
+A data definition shall:
+a) be stated in the singular 
 b) state what the concept is, not only what it is not 
 c) be stated as a descriptive phrase or sentence(s) 
 d) contain only commonly understood abbreviations 
-e) be expressed without embedding definitions of other data or underlying concepts4.2 Recommendations A data definition should:a) state the essential meaning of the concept 
+e) be expressed without embedding definitions of other data or underlying concepts
+
+4.2 Recommendations A data definition should:
+a) state the essential meaning of the concept 
 b) be precise and unambiguous 
 c) be concise 
 d) be able to stand alone 
@@ -36,6 +40,10 @@ https://en.wikipedia.org/wiki/Fallacies_of_definition
 * Mutual exclusivity
 * Self-contradictory requirements
 * Definist fallacy
+
+Other glossary resources:
+* [How to write and reference an entry in the glossary](https://developer.mozilla.org/en-US/docs/MDN/Contribute/Howto/Write_a_new_entry_in_the_Glossary)
+* [MDN Web Docs Glossary:](https://developer.mozilla.org/en-US/docs/Glossary)
 	
 --
 	
